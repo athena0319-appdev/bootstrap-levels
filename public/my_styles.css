@@ -1,0 +1,54 @@
+<style>
+
+.base-button{
+  padding-left: 10px;
+  padding-right:10px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  color: white;
+  border-radius:3px;
+  box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset; -webkit-box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset; -moz-box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset;
+  
+  }
+  
+  
+  .base-button:hover{
+  
+  background-color :darkblue;
+  }
+  
+  .base-button:active{
+  
+  background-color :black;
+  color: red;
+  }
+  
+
+.fancy-button{
+background-color :blue;
+padding-left: 10px;
+padding-right:10px;
+padding-top: 5px;
+padding-bottom: 5px;
+color: white;
+border-radius:3px;
+box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset; -webkit-box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset; -moz-box-shadow: 2px -1px 17px -3px rgba(0,0,0,0.75) inset;
+
+}
+
+
+.fancy-button:hover{
+
+background-color :darkblue;
+}
+
+.fancy-button:active{
+
+background-color :black;
+color: red;
+}
+
+
+  /* Write your CSS here to make the span look like a button. */
+
+</style>
